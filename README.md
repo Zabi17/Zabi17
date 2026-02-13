@@ -51,7 +51,7 @@ I love:
 
 ### 🖥 Frontend
 ⚡ HTML • CSS • Tailwind • JavaScript (ES6+)  
-⚡ React • Component Architecture • Responsive UI
+⚡ React • Component Architecture • Responsive UI </br>
 ⚡ Nextjs • Server Side Rendering •  TypeScript
 
 ### 🧩 Backend & Tools
