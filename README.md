@@ -52,11 +52,12 @@ I love:
 ### 🖥 Frontend
 ⚡ HTML • CSS • Tailwind • JavaScript (ES6+)  
 ⚡ React • Component Architecture • Responsive UI
+⚡ Nextjs • Server Side Rendering •  TypeScript
 
 ### 🧩 Backend & Tools
 ⚡ Node.js • Express  
 ⚡ REST APIs • Axios • Fetch  
-⚡ PostgreSQL (basics)  
+⚡ PostgreSQL 
 ⚡ Git • GitHub • Postman
 
 ---
