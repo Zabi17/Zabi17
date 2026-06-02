@@ -100,13 +100,13 @@ Practiced **Basic Auth + Bearer Token** using Axios and well-structured routes.
 # ☄️ Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00E6FE?style=for-the-badge&logo=gmail&logoColor=000" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
-  <a href="https://zabi17.github.io/portfolio/">
+  <a href="https://zabi17.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=fff" />
   </a>
 </p>
