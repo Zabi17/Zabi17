@@ -106,7 +106,7 @@ Practiced **Basic Auth + Bearer Token** using Axios and well-structured routes.
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://zabi17.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=fff" />
   </a>
 </p>
