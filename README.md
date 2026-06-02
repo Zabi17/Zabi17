@@ -1,6 +1,6 @@
 <!-- Futuristic Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Zabi+Ahmed+👋;MERN+Stack+Developer;Aspiring+Full-Stack+Engineer;I+Build+Modern+%26+Futuristic+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Zabi+Ahmed+👋;FULL+Stack+Developer;Aspiring+Full-Stack+Engineer;I+Build+Modern+%26+Futuristic+Web+Experiences" />
 </p>
 
 ---
@@ -105,6 +105,9 @@ Practiced **Basic Auth + Bearer Token** using Axios and well-structured routes.
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=fff" />
   </a>
 </p>
 
